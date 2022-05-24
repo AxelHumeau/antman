@@ -1,0 +1,8 @@
+antman/antman
+giantman/giantman
+*.tmp
+*.a
+*.o
+.vscode
+unit_tests
+probability_calc

@@ -1,0 +1,10 @@
+*~
+*.a
+*.o
+eval_expr
+compile_flags.txt
+unit_tests
+bsq
+*.gcda
+*.gcno
+vgcore.*
